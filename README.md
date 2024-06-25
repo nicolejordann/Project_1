@@ -10,6 +10,8 @@ The raw materials used to make the surfactant stongly impact how stable the emul
 
 This company needs to test a new raw material to see if it creates a stable emulsion. If it does indeed create a stable emulsion, then the company will move forward and purchase $30,000 of the new raw material. 
 
+~~~~~~
+
 
 
 Experimental design:
