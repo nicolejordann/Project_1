@@ -18,15 +18,16 @@ Experimental design:
 The approach to analyzing the strength of the emulsion is by using lung samples collected from humans because their heterogeneity puts alot of stress on the micells and its highly indicative of what will happen in vivo.
 
 The surfactants made with the new raw material will be tested against two control surfactants:
-  -positive control: NK-R38 (goal performance)
-  -negative control: NK-R84 (limit of performance)
+  -positive control: NK-R38 (target performance)
+  -negative control: NK-R84 (upper limit of performance, will not accept anything worse)
 
 The test surfactants are NK-102 and NK-104.
 
+
 Metrics commonly to evaluate surfactant performace/strength are:
 
-  -doublets formed (measures how many drops coalesced)
+  -doublets formed (measures how many drops coalesced from a singlet (1 drop) into a doublet (2 drops)
   
-  -Total droplets (when this number drops, its also a sign that droplets coalesced)
+  -Total droplets (when this number drops, its also a sign that droplets coalesced, resulting in a fewer number of droplets)
   
-  -Fill factor intial/fillfactor final (when this number moves away from 1, its means droplets coalesced) 
+  -Fill factor final/fill factor initial (when this number moves away from 1, its means there are fewer droplets observed at the end of the trial than were observed in the beginning of the trial, leading us to believe that they have coalesced) 
