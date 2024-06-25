@@ -13,4 +13,15 @@ This company needs to test a new raw material to see if it creates a stable emul
 
 
 Experimental design:
-The approach to analyzing the strength of the emulsion is by using lung samples collected from humans 
+The approach to analyzing the strength of the emulsion is by using lung samples collected from humans because their heterogeneity puts alot of stress on the micells and its highly indicative of what will happen in vivo.
+
+The surfactants made with the new raw material will be tested against two control surfactants:
+  -positive control: NK-R38 (goal performance)
+  -negative control: NK-R84 (limit of performance)
+
+The test surfactants are NK-102 and NK-104.
+
+Metrics commonly to evaluate surfactant performace/strength are:
+  -doublets formed (measures how many drops coalesced)
+  -Total droplets (when this number drops, its also a sign that droplets coalesced)
+  -Fill factor intial/fillfactor final (when this number moves away from 1, its means droplets coalesced) 
