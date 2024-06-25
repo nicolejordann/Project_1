@@ -22,6 +22,7 @@ The surfactants made with the new raw material will be tested against two contro
 The test surfactants are NK-102 and NK-104.
 
 Metrics commonly to evaluate surfactant performace/strength are:
+
   -doublets formed (measures how many drops coalesced)
   -Total droplets (when this number drops, its also a sign that droplets coalesced)
   -Fill factor intial/fillfactor final (when this number moves away from 1, its means droplets coalesced) 
