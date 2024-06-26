@@ -26,7 +26,7 @@ The surfactants made with the new raw material will be tested against two contro
 The test surfactants are NK-102 and NK-104.
 
 
-Metrics commonly to evaluate surfactant strength are:
+Metrics commonly used to evaluate surfactant strength are:
 
   -doublets formed (measures how many drops coalesced from a singlet (1 drop) into a doublet (2 drops)
   
