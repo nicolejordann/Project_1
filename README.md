@@ -21,7 +21,7 @@ The goal is to stress the emulsion to a breaking point, and then analyze the deg
 
 The surfactants made with the new raw material will be tested against two control surfactants:
   -positive control: NK-R38 (target strength)
-  -negative control: NK-R84 (lower limit of weakness, will not accept anything worse)
+  -negative control: NK-R84 (lower limit of instability, will not accept anything worse)
 
 The test surfactants are NK-102 and NK-104.
 
