@@ -13,9 +13,11 @@ This company needs to test a new raw material to see if it creates a stable emul
 ~~~~~~
 
 
-
 Experimental design:
-The approach to analyzing the strength of the emulsion is by using lung samples collected from humans because their heterogeneity puts alot of stress on the micells and its highly indicative of what will happen in vivo.
+
+
+The approach to analyzing the strength of the emulsion is by using lung samples collected from humans because their heterogeneity puts alot of stress on the micells and it is highly indicative of what will happen in vivo.
+The goal is to stress the emulsion to a breaking point, and then analyze the degree of droplet coalescence in comparison to a control. 
 
 The surfactants made with the new raw material will be tested against two control surfactants:
   -positive control: NK-R38 (target strength)
