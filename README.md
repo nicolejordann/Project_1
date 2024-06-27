@@ -36,11 +36,13 @@ Metrics commonly used to evaluate surfactant stability are:
 ~~~~~~
 
 For a perfect surfactant: 
+
     doublets should be zero in all samples 
     FFF/FFI should equal 1 in all samples 
     Each circuit should have 25,000 total droplets in all samples 
   
 The further a surfactant is away from the goal, the weaker the stability
+
     From the data we can see that NK-R84 is the furthest away from the goal in every criteria, meaning it has the weakest stability out of all surfactants tested
     NK-R102 and NK-104 preform very close to NK-R38 (our best surfactant to date) and _____ actually performs a little better
     Since Both 102 and 104 perform better than NK-R84 and very close to NK-R38, it means that the raw material used in the experimental surfactants is perfectly acceptable to purchase
