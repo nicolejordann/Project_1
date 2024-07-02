@@ -1,5 +1,7 @@
 # Project_1
 
+Team Members: nicole navarijo, Jamey Yadon, Feng Yuan, Ryan Pope
+
 This biotechnology company needs to evaluate a new raw material to potentially be used it its emulsion solution. 
 
 The emulsion solution is composite of water-based media broth micelles suspended in an oil solution. Each micell is used for growing and analyzing a bacterial cell with the hopes of diagnosing infections in future pateints.
